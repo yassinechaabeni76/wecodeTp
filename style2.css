@@ -1,0 +1,9 @@
+
+input[type="checkbox"],
+input[type="radio"]{
+    display: inline;
+}
+
+span {
+    color : red ;
+}
